@@ -1,0 +1,13 @@
+.msgBg {
+  display: inline-block;
+  background-color: #fdebd0;
+  padding: 8px 12px;
+  border-radius: 10px;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+.userName {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #555;
+}
